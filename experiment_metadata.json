@@ -1,0 +1,13 @@
+{
+    "project": "IMOFSE",
+    "best_model": "LogisticRegression_GridSearch",
+    "best_cv_roc_auc": 0.9965944272445821,
+    "test_roc_auc": 0.9943783068783069,
+    "test_f1": 0.9722222222222222,
+    "selected_features": 20,
+    "total_features": 30,
+    "cv_folds": 5,
+    "random_state": 42,
+    "prediction_benchmark_100_calls": 0.09675530000822619,
+    "experiment_duration": 178.27
+}
